@@ -10,21 +10,10 @@
 - [📖 About the Project](first project)
   - [🛠 Built With](html css)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -36,15 +25,11 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
+
 <details>
-  <summary>Project1</summary>
+  <summary>Client</summary>
   <ul>
     <li>HTML</li>
-  </ul>
-</details>
-<details>
-  <summary>Project1</summary>
-  <ul>
     <li>CSS</li>
   </ul>
 </details>
@@ -89,7 +74,7 @@ I would like to thank to Let's code group.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([./LICENSE](https://github.com/mioOleen/First-project/blob/project1/LICENSE) licensed.
+This project is [MIT](https://github.com/mioOleen/First-project/blob/project1/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
